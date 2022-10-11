@@ -4,7 +4,7 @@
 - An astute full stack web developer with a good passion in remote development and collaborative teamwork. 
 
 
-- 🔭 I’m currently working with **Js, ReactJS, Redux, Firebase, Ruby on Rails, and prominent UI libraries like MUI. **
+- 🔭 I’m currently working with **Js, ReactJS, Redux, Firebase, Ruby on Rails, and prominent UI libraries like MUI.**
 - 👯 I’m looking to collaborate actively in the above named stack and its affiliate technologies ...
 - 💬 Ask me about ...**Kenya and it's splendid warm sandy beaches.😄⛱**
 - 📫 How to reach me: ..**mbegeraleon89@gmail.com**
