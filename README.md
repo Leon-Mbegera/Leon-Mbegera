@@ -1,14 +1,13 @@
 ## Hello there, Whatsaap! 👋
 
 ### I'm leon
-- An astute full stack web developer with a good passion in remote development and collaborative teamwork. 
+- I am an astute full-stack software developer with a passion in both onsite/remote or hybrid development environmnents, and collaborative teamwork. 
 
 
-- 🔭 I’m currently working with **Js, ReactJS, Redux, Firebase, Ruby on Rails, and prominent UI libraries like MUI.**
+- 🔭 I’m currently working with **JavaScript, TypeScript, ReactJS, VueJS, Redux, Storybook, Firebase, Ruby on Rails, and prominent UI libraries like MUI.**
 - 👯 I’m looking to collaborate actively in the above named stack and its affiliate technologies ...
 - 💬 Ask me about ...**Kenya and it's splendid warm sandy beaches.😄⛱**
 - 📫 How to reach me: ..**mbegeraleon89@gmail.com**
-- 🌌 Take a look at my experiences [here you go..](https://leon-mbegera.github.io/Leon-s-Portfolio/)
 - ⚡ Fun fact: ...**Calmness harness power**
 
 <h3 align = "left">Languages and Tools:</h3>
