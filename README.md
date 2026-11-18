@@ -1,12 +1,12 @@
-## Hello there, Whatsaap! 👋
+## Hello there, WhatsApp! 👋
 
 ### I'm leon
-- I am an astute full-stack software developer with a passion for both onsite/remote or hybrid development environmnents, and collaborative teamwork.
+- I am an astute full-stack software developer with a passion for both onsite/remote or hybrid development environments, and collaborative teamwork.
 
 
-- 🔭 I’m currently working with **Ruby, JavaScript, Ruby On Rails, ReactJS, VueJS, Redux, Pinia, Storybook, Firebase, and Popular UI libraries like Tailwind, Preline, and Material UI.**
-- 👯 I’m looking to collaborate actively in the above named stack and their affiliate technologies ...
-- 💬 Ask me about ...**Kenya and it's splendid warm sandy beaches.😄⛱**
+- 🔭 I’m currently working with **Spring-boot, Java, Ruby, Ruby on Rails, ReactJS, VueJS, TypeScript, Redux, Pinia, Storybook, Firebase, and Popular UI libraries like Tailwind, Preline, and Material UI.**
+- 👯 I’m looking to collaborate actively in the above-named stack and its affiliate technologies ...
+- 💬 Ask me about ...**Kenya, and its splendid warm sandy beaches.😄⛱**
 - 📫 How to reach me: ..**mbegeraleon89@gmail.com**
 - ⚡ Fun fact: ...**Calmness harness power**
 
